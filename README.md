@@ -1,4 +1,4 @@
-# Amazon-Project-Review-Analysis-for-DSA
+# Amazon-Project-Review-Analysis-for-DSA Capstone question 1
 
 This my final project after a 3 month training by Incubator hub under Data Analysis. 
 I will be utilising Micro soft excel and majorly the pivot table to visualise and display my analysis on the project
