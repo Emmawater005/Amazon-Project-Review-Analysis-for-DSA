@@ -30,3 +30,5 @@ Proper analysis of each column was necessary to understnad and answer the quarri
 ![Products by categories](https://github.com/user-attachments/assets/bcac352e-7c31-46d5-a35a-2c9f7cc4d45f)
 
 ![Top Products by discounts](https://github.com/user-attachments/assets/3b6faac7-b63e-4f4e-bec5-b52eb65a5255)
+
+![Product by Review](https://github.com/user-attachments/assets/2dad76d0-a80d-4ef3-9e82-afac48d0f1a1)
