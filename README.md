@@ -14,4 +14,9 @@ This is the primary source of Data used here is Amazon Product review .xlsx
 - Ms Excel for Data Analysis [Download Here](https://www.microsoft.com/en/microsoft-365/excel)
    - For Data cleaning
    - For Data Analysis
-   - For Data visualising  
+   - For Data visualising
+
+### Data Analysis
+
+Proper analysis of each column was necessary to understnad and answer the quarries from the organization, each columns were analysized and reviewed using the pivot table function for data summarisation 
+     
