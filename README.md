@@ -19,4 +19,12 @@ This is the primary source of Data used here is Amazon Product review .xlsx
 ### Data Analysis
 
 Proper analysis of each column was necessary to understnad and answer the quarries from the organization, each columns were analysized and reviewed using the pivot table function for data summarisation 
+
+### Analysis
      
+
+![AVERAGE DISCOUNT BY CATEGORIES](https://github.com/user-attachments/assets/ed2cf8fc-23cc-4331-bd5a-a707629f206d)
+
+![Top 3 products by categories](https://github.com/user-attachments/assets/d104532a-6aff-45ff-b90a-c960010a8d9e)
+
+![Products by categories](https://github.com/user-attachments/assets/bcac352e-7c31-46d5-a35a-2c9f7cc4d45f)
